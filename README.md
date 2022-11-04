@@ -1,6 +1,6 @@
 
   
-[![httpjanas's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[![httpjanas's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=httpjanas&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![httpjanas's github stats](https://github-readme-stats.vercel.app/api?username=httpjanas&show_icons=true&theme=tokyonight) | ![httpjanas GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=httpjanas&theme=tokyonight) |
 | --- | --- |
